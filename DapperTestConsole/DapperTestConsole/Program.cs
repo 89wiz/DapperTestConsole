@@ -10,7 +10,7 @@ namespace DapperTestConsole
 {
     class Program
     {
-        static string cnString = @"Data Source=iris.arvixe.com;Initial Catalog=LogicalMinds_Quiz;Persist Security Info=True;User ID=LogicalMinds;Password=logicaldb@2014";
+        static string cnString = @"Data Source=...;Initial Catalog=...;Persist Security Info=True;User ID=...;Password=...";
 
         static void Main(string[] args)
         {
